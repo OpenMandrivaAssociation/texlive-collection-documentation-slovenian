@@ -7,7 +7,7 @@
 Name:		texlive-collection-documentation-slovenian
 Epoch:		1
 Version:	20120224
-Release:	9
+Release:	10
 Summary:	Slovenian documentation
 Group:		Publishing
 URL:		http://tug.org/texlive
